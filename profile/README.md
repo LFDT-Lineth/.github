@@ -1,10 +1,10 @@
 # Lineth
 
-[![CI](https://github.com/LFDT-lineth/linea-monorepo/actions/workflows/main.yml/badge.svg)](https://github.com/LFDT-lineth/linea-monorepo/actions/workflows/main.yml)
-[![CodeQL](https://github.com/LFDT-lineth/linea-monorepo/actions/workflows/codeql.yml/badge.svg)](https://github.com/LFDT-lineth/linea-monorepo/actions/workflows/codeql.yml)
-[![Codecov](https://codecov.io/gh/LFDT-lineth/linea-monorepo/graph/badge.svg?token=2TM55P0CGJ)](https://codecov.io/gh/LFDT-lineth/linea-monorepo)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/LFDT-lineth/linea-monorepo/blob/main/LICENSE-APACHE)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/LFDT-lineth/linea-monorepo/blob/main/LICENSE-MIT)
+[![CI](https://github.com/LFDT-lineth/lineth-monorepo/actions/workflows/main.yml/badge.svg)](https://github.com/LFDT-lineth/lineth-monorepo/actions/workflows/main.yml)
+[![CodeQL](https://github.com/LFDT-lineth/lineth-monorepo/actions/workflows/codeql.yml/badge.svg)](https://github.com/LFDT-lineth/lineth-monorepo/actions/workflows/codeql.yml)
+[![Codecov](https://codecov.io/gh/LFDT-lineth/lineth-monorepo/graph/badge.svg)](https://codecov.io/gh/LFDT-lineth/lineth-monorepo)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/LICENSE-APACHE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/LICENSE-MIT)
 [![Discord](https://img.shields.io/discord/905194001349627914?logo=Hyperledger&style=plastic)](https://discord.com/invite/hyperledger)
 [![X Follow](https://img.shields.io/twitter/follow/LineaBuild?style=social)](https://x.com/LineaBuild)
 
@@ -16,9 +16,9 @@ Lineth is built around [Besu](https://github.com/besu-eth/besu) as its reference
 
 * [Linea Documentation](https://docs.linea.build)
 * [Lineth Issues][Lineth Issues]
-* [How to Contribute to Lineth](https://github.com/LFDT-lineth/linea-monorepo/blob/main/docs/contribute.md)
-* [Get Started Guide](https://github.com/LFDT-lineth/linea-monorepo/blob/main/docs/get-started.md)
-* [Local Development Guide](https://github.com/LFDT-lineth/linea-monorepo/blob/main/docs/local-development-guide.md)
+* [How to Contribute to Lineth](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/docs/contribute.md)
+* [Get Started Guide](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/docs/get-started.md)
+* [Local Development Guide](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/docs/local-development-guide.md)
 * [Linea Blog](https://linea.mirror.xyz)
 * [Support](https://support.linea.build)
 
@@ -26,13 +26,13 @@ Lineth is built around [Besu](https://github.com/besu-eth/besu) as its reference
 
 The Lineth stack is split across several repositories:
 
-* [linea-monorepo](https://github.com/LFDT-lineth/linea-monorepo) — main repository for the Lineth stack (smart contracts, prover, coordinator, postman, Linea-Besu plugins)
+* [lineth-monorepo](https://github.com/LFDT-lineth/lineth-monorepo) — main repository for the Lineth stack (smart contracts, prover, coordinator, postman, Linea-Besu plugins)
 * [zkc](https://github.com/LFDT-lineth/zkc) — zk constraint compiler
 * [doc.linea](https://github.com/Consensys/doc.linea) — source for the Linea documentation site at [docs.linea.build](https://docs.linea.build)
 
 ## Issues
 
-Lineth issues are tracked [in the GitHub issues tab][Lineth Issues]. See the [contribution guide](https://github.com/LFDT-lineth/linea-monorepo/blob/main/docs/contribute.md) for details on searching and filing issues.
+Lineth issues are tracked [in the GitHub issues tab][Lineth Issues]. See the [contribution guide](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/docs/contribute.md) for details on searching and filing issues.
 
 If you have questions or comments, find us on the [LFDT Discord server](https://discord.com/invite/hyperledger) in the dedicated Lineth channels:
 
@@ -49,18 +49,18 @@ If you have questions or comments, find us on the [LFDT Discord server](https://
 
 ## For Developers
 
-* [Contributing Guidelines](https://github.com/LFDT-lineth/linea-monorepo/blob/main/docs/contribute.md)
-* [Code of Conduct](https://github.com/LFDT-lineth/linea-monorepo/blob/main/docs/code-of-conduct.md)
-* [Security Policy](https://github.com/LFDT-lineth/linea-monorepo/blob/main/docs/security.md)
+* [Contributing Guidelines](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/docs/contribute.md)
+* [Code of Conduct](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/docs/code-of-conduct.md)
+* [Security Policy](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/docs/security.md)
 * [Linea Documentation](https://docs.linea.build) for running and using Linea
 
 ### Development
 
 Instructions for getting started with the Lineth codebase:
 
-* [Local Development Guide](https://github.com/LFDT-lineth/linea-monorepo/blob/main/docs/local-development-guide.md)
-* [Code Coverage](https://codecov.io/gh/LFDT-lineth/linea-monorepo)
-* [Continuous Integration](https://github.com/LFDT-lineth/linea-monorepo/actions)
+* [Local Development Guide](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/docs/local-development-guide.md)
+* [Code Coverage](https://codecov.io/gh/LFDT-lineth/lineth-monorepo)
+* [Continuous Integration](https://github.com/LFDT-lineth/lineth-monorepo/actions)
 
 For Besu:Lineth related contributions, see the [Besu contribution guide](https://lf-hyperledger.atlassian.net/wiki/spaces/BESU/pages/22156850/How+to+Contribute).
 
@@ -68,10 +68,10 @@ For Besu:Lineth related contributions, see the [Besu contribution guide](https:/
 
 For AI coding agents and developer tools:
 
-* Canonical instructions: [AGENTS.md](https://github.com/LFDT-lineth/linea-monorepo/blob/main/AGENTS.md)
-* Claude Code entry point: [CLAUDE.md](https://github.com/LFDT-lineth/linea-monorepo/blob/main/CLAUDE.md)
-* GitHub Copilot entry point: [.github/copilot-instructions.md](https://github.com/LFDT-lineth/linea-monorepo/blob/main/.github/copilot-instructions.md)
+* Canonical instructions: [AGENTS.md](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/AGENTS.md)
+* Claude Code entry point: [CLAUDE.md](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/CLAUDE.md)
+* GitHub Copilot entry point: [.github/copilot-instructions.md](https://github.com/LFDT-lineth/lineth-monorepo/blob/main/.github/copilot-instructions.md)
 
-[Lineth Issues]: https://github.com/LFDT-lineth/linea-monorepo/issues
-[Apache License]: https://github.com/LFDT-lineth/linea-monorepo/blob/main/LICENSE-APACHE
-[MIT License]: https://github.com/LFDT-lineth/linea-monorepo/blob/main/LICENSE-MIT
+[Lineth Issues]: https://github.com/LFDT-lineth/lineth-monorepo/issues
+[Apache License]: https://github.com/LFDT-lineth/lineth-monorepo/blob/main/LICENSE-APACHE
+[MIT License]: https://github.com/LFDT-lineth/lineth-monorepo/blob/main/LICENSE-MIT
